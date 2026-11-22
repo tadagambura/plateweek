@@ -49,11 +49,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Plates slide onto days; a full week gets a chef's kiss
+- Meal planned: the plate slides onto the day with a clink
+- Full week: a chef stickman does a chef's kiss
+- Shopping list made: it unrolls like a scroll
+- Leftovers mode: the lunchbox does a happy dance
+- Under budget: the piggy bank puts on a chef's hat
 
 
 ## AI
