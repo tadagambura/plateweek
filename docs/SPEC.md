@@ -49,6 +49,13 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Plates slide onto days; a full week gets a chef's kiss
+
+
 ## AI
 
 **Light.** Paste a recipe and get its ingredient list. Cheap model, one call per recipe, result saved. (Portfolio rule: plain code first, code does the maths,
