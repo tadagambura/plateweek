@@ -1,20 +1,69 @@
 # PlateWeek
 
-Plan the week's meals in five minutes
+**Plan the week's meals in five minutes**
 
-## Status
+> #24 of 33 in the build order · Medium · Revenue potential: Medium · Home & Household
 
-Planning. See [`docs/SPEC.md`](docs/SPEC.md).
+## What it is
+
+Drag meals onto days, reuse your own meal library, and get the week's shopping list built automatically (and sent straight to BasketBuddy). Set a weekly food budget and see the estimated cost.
+
+## Why it's in the portfolio
+
+A weekly habit with real money and time savings, a natural partner to BasketBuddy and WorthIt, and endless content (cheap meal plans). Uses the user's own meals, so there's no recipe library to maintain.
+
+## Who it's for
+
+Households trying to cut food waste, save money and end the 'what's for dinner?' question.
+
+**The problem:** Deciding meals every day is draining and leads to waste and takeaways.
+
+## Version one
+
+- Weekly planner: drag meals to days
+- Personal meal library with ingredients
+- Auto-generated shopping list
+- Weekly food budget estimate
+- Starter pack of simple meals
+
+**Example:** On Sunday a user plans five dinners from their library and gets one shopping list grouped by aisle.
+
+## Later
+
+- Share the plan with a household (sync)
+- Leftovers mode
+- Send the list to BasketBuddy
 
 ## How it makes money
 
-_TBD, see SPEC._
+| Model | Detail |
+|---|---|
+| Free | One week ahead and 20 meals, with ads |
+| Premium | £2.99/month: unlimited meals, plan further ahead, sharing, budgets |
 
-## Run locally
+## Why people come back
 
-_Added once the app is scaffolded._
+Built on **The Progression Loop**, the portfolio's shared retention framework
+(streaks with forgiveness, visible progress, milestones, recaps, no guilt-trips).
+
+| Stage | In PlateWeek |
+|---|---|
+| Cue | Sunday planning reminder |
+| Tiny win | Fill the week |
+| Progress | Weeks planned; money and waste saved |
+| Share | Weekly meal plan images |
+| Next step | Copy last week's plan |
+| Cadence | Weekly |
+
+## Watch-outs
+
+Combining ingredients and units across recipes takes care. Avoid nutrition or health claims.
+
+## Status
+
+Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of the App Portfolio. Marketing runs through the shared
-[growth-engine](https://github.com/tadagambura/growth-engine).
+Part of a portfolio of 33 small consumer apps that share one codebase, one retention module
+and one marketing system ([growth-engine](https://github.com/tadagambura/growth-engine)).
