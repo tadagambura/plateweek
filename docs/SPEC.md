@@ -1,6 +1,6 @@
 # PlateWeek: Spec
 
-**Plan the week's meals in five minutes** · #18 of 33 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude)
+**Plan the week's meals in five minutes** · #17 of 32 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude)
 
 ## One-liner
 
