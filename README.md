@@ -55,6 +55,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Copy last week's plan |
 | Cadence | Weekly |
 
+## Animation and tone
+
+**Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
+
+- Plates slide onto days; a full week gets a chef's kiss
+
+
 ## AI
 
 **Light.** Paste a recipe and get its ingredient list. Cheap model, one call per recipe, result saved.
