@@ -1,6 +1,6 @@
 # PlateWeek: Spec
 
-**Plan the week's meals in five minutes** · #24 of 33 in the build order · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude)
+**Plan the week's meals in five minutes** · #18 of 33 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude)
 
 ## One-liner
 
@@ -48,6 +48,11 @@ Prices are starting points; test before committing.
 
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
+
+## AI
+
+**Light.** Paste a recipe and get its ingredient list. Cheap model, one call per recipe, result saved. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
 
 ## Platform & data
 

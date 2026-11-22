@@ -2,7 +2,7 @@
 
 **Plan the week's meals in five minutes**
 
-> #24 of 33 in the build order · Medium · Revenue potential: Medium · Home & Household
+> #18 of 33 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household
 
 ## What it is
 
@@ -54,6 +54,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Weekly meal plan images |
 | Next step | Copy last week's plan |
 | Cadence | Weekly |
+
+## AI
+
+**Light.** Paste a recipe and get its ingredient list. Cheap model, one call per recipe, result saved.
 
 ## Watch-outs
 
