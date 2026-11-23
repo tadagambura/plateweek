@@ -1,6 +1,6 @@
 # PlateWeek: Spec
 
-**Plan the week's meals in five minutes** · #17 of 31 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude)
+**Plan the week's meals, and the shop writes itself** · #8 of 16 · Wave 1: Daily keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude) + ChatGPT (absorbs BasketBuddy)
 
 ## One-liner
 
@@ -18,7 +18,7 @@ Drag meals onto days, reuse your own meal library, and get the week's shopping l
 2. Personal meal library with ingredients
 3. Auto-generated shopping list
 4. Weekly food budget estimate
-5. Starter pack of simple meals
+5. Shared shopping list with running total and aisle order (from BasketBuddy)
 
 ## Not in MVP
 
@@ -53,12 +53,13 @@ never wiped, at most one notification a day by default.
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Meal planned: the plate slides onto the day with a clink
-- Full week: a chef stickman does a chef's kiss
-- Shopping list made: it unrolls like a scroll
-- Leftovers mode: the lunchbox does a happy dance
-- Under budget: the piggy bank puts on a chef's hat
+- Meal planned: the plate slides onto Tuesday with a clink
+- Full week planned: chef's kiss
+- List made: the shopping list unrolls itself
+- Under budget: the trolley pops a wheelie
+- Leftovers: the lunchbox does a happy dance
 
+**Line we don't cross:** No diet culture or calorie shaming.
 
 ## AI
 

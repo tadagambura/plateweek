@@ -1,8 +1,8 @@
 # PlateWeek
 
-**Plan the week's meals in five minutes**
+**Plan the week's meals, and the shop writes itself**
 
-> #17 of 31 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household
+> #8 of 16 · Wave 1: Daily keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household
 
 ## What it is
 
@@ -10,7 +10,7 @@ Drag meals onto days, reuse your own meal library, and get the week's shopping l
 
 ## Why it's in the portfolio
 
-A weekly habit with real money and time savings, a natural partner to BasketBuddy and WorthIt, and endless content (cheap meal plans). Uses the user's own meals, so there's no recipe library to maintain.
+Mealime shut down on 21 October 2026, leaving millions of meal planners looking for a new home, and shared-list sync is the top complaint about Samsung Food. AnyList shows people pay ($9.99/yr individual, $14.99/yr household). Folding BasketBuddy in means one app for plan → list → shop.
 
 ## Who it's for
 
@@ -24,7 +24,7 @@ Households trying to cut food waste, save money and end the 'what's for dinner?'
 - Personal meal library with ingredients
 - Auto-generated shopping list
 - Weekly food budget estimate
-- Starter pack of simple meals
+- Shared shopping list with running total and aisle order (from BasketBuddy)
 
 **Example:** On Sunday a user plans five dinners from their library and gets one shopping list grouped by aisle.
 
@@ -61,12 +61,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 
 **Playful.** Celebrations, confetti, cute characters, satisfying sounds and mild comic reactions. Nothing tragic.
 
-- Meal planned: the plate slides onto the day with a clink
-- Full week: a chef stickman does a chef's kiss
-- Shopping list made: it unrolls like a scroll
-- Leftovers mode: the lunchbox does a happy dance
-- Under budget: the piggy bank puts on a chef's hat
+- Meal planned: the plate slides onto Tuesday with a clink
+- Full week planned: chef's kiss
+- List made: the shopping list unrolls itself
+- Under budget: the trolley pops a wheelie
+- Leftovers: the lunchbox does a happy dance
 
+**Line we don't cross:** No diet culture or calorie shaming.
 
 ## AI
 
@@ -82,5 +83,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 31 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
