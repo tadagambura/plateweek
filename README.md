@@ -2,7 +2,7 @@
 
 **Plan the week's meals, and the shop writes itself**
 
-> #10 of 15 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household
+> #10 of 17 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household
 
 ## What it is
 
@@ -83,5 +83,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 15 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 17 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
