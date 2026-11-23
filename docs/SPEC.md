@@ -31,7 +31,7 @@ Drag meals onto days, reuse your own meal library, and get the week's shopping l
 | Model | Detail |
 |---|---|
 | Free | One week ahead and 20 meals, with ads |
-| Premium | £2.99/month: unlimited meals, plan further ahead, sharing, budgets |
+| Premium | £24.99/year (shown first) or £3.49/month: unlimited meals, plan further ahead, sharing, budgets |
 
 Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
