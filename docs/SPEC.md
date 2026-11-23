@@ -1,6 +1,6 @@
 # PlateWeek: Spec
 
-**Plan the week's meals, and the shop writes itself** · #10 of 15 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude) + ChatGPT (absorbs BasketBuddy)
+**Plan the week's meals, and the shop writes itself** · #10 of 17 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude) + ChatGPT (absorbs BasketBuddy)
 
 ## One-liner
 
