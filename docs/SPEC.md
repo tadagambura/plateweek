@@ -1,10 +1,10 @@
 # PlateWeek: Spec
 
-**Plan the week's meals, and the shop writes itself** · #8 of 16 · Wave 1: Daily keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude) + ChatGPT (absorbs BasketBuddy)
+**Plan the week's meals, and the shop writes itself** · #10 of 15 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household · Source: New (Claude) + ChatGPT (absorbs BasketBuddy)
 
 ## One-liner
 
-Drag meals onto days, reuse your own meal library, and get the week's shopping list built automatically (and sent straight to BasketBuddy). Set a weekly food budget and see the estimated cost.
+Drag meals onto days, reuse your own meal library, and get the week's shopping list built automatically (and sent straight to PlateWeek). Set a weekly food budget and see the estimated cost.
 
 ## Problem / audience
 
@@ -18,13 +18,13 @@ Drag meals onto days, reuse your own meal library, and get the week's shopping l
 2. Personal meal library with ingredients
 3. Auto-generated shopping list
 4. Weekly food budget estimate
-5. Shared shopping list with running total and aisle order (from BasketBuddy)
+5. Shared shopping list with running total and aisle order (from PlateWeek)
 
 ## Not in MVP
 
 - Share the plan with a household (sync)
 - Leftovers mode
-- Send the list to BasketBuddy
+- Send the list to PlateWeek
 
 ## Monetisation
 

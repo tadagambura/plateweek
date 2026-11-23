@@ -2,15 +2,15 @@
 
 **Plan the week's meals, and the shop writes itself**
 
-> #8 of 16 · Wave 1: Daily keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household
+> #10 of 15 · Wave 2: Recurring keepers · Used: Weekly · Medium · Revenue potential: Medium · Home & Household
 
 ## What it is
 
-Drag meals onto days, reuse your own meal library, and get the week's shopping list built automatically (and sent straight to BasketBuddy). Set a weekly food budget and see the estimated cost.
+Drag meals onto days, reuse your own meal library, and get the week's shopping list built automatically (and sent straight to PlateWeek). Set a weekly food budget and see the estimated cost.
 
 ## Why it's in the portfolio
 
-Mealime shut down on 21 October 2026, leaving millions of meal planners looking for a new home, and shared-list sync is the top complaint about Samsung Food. AnyList shows people pay ($9.99/yr individual, $14.99/yr household). Folding BasketBuddy in means one app for plan → list → shop.
+Mealime shut down on 21 October 2026, leaving millions of meal planners looking for a new home, and shared-list sync is the top complaint about Samsung Food. AnyList shows people pay ($9.99/yr individual, $14.99/yr household). Folding PlateWeek in means one app for plan → list → shop.
 
 ## Who it's for
 
@@ -24,7 +24,7 @@ Households trying to cut food waste, save money and end the 'what's for dinner?'
 - Personal meal library with ingredients
 - Auto-generated shopping list
 - Weekly food budget estimate
-- Shared shopping list with running total and aisle order (from BasketBuddy)
+- Shared shopping list with running total and aisle order (from PlateWeek)
 
 **Example:** On Sunday a user plans five dinners from their library and gets one shopping list grouped by aisle.
 
@@ -32,7 +32,7 @@ Households trying to cut food waste, save money and end the 'what's for dinner?'
 
 - Share the plan with a household (sync)
 - Leftovers mode
-- Send the list to BasketBuddy
+- Send the list to PlateWeek
 
 ## How it makes money
 
@@ -83,5 +83,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 15 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
